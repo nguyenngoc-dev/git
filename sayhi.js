@@ -1,3 +1,3 @@
-var sayhi=require('./sayhi');
-var say = new sayhi('ngoc', 18);
+var a=require('./a');
+var say = new a('ngoc', 18);
 say.say();
